@@ -2,5 +2,5 @@
  
 ## Data Diri
  
-- Nama: Khairul Auni
+- Nama: Khairul Auni 
 - NPM: 2108107010016 
